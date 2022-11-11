@@ -1,0 +1,604 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Chuande Liu</title>
+    <link>https://chuande-liu.github.io/</link>
+      <atom:link href="https://chuande-liu.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <description>Chuande Liu</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 20 Feb 2022 17:34:40 +0000</lastBuildDate>
+    <image>
+      <url>https://chuande-liu.github.io/media/avatar.jpg</url>
+      <title>Chuande Liu</title>
+      <link>https://chuande-liu.github.io/</link>
+    </image>
+    
+    <item>
+      <title>Phd Dissertation Defense, Cheer up! 2022</title>
+      <link>https://chuande-liu.github.io/post/phd-defense-2022/</link>
+      <pubDate>Sun, 20 Feb 2022 17:34:40 +0000</pubDate>
+      <guid>https://chuande-liu.github.io/post/phd-defense-2022/</guid>
+      <description>&lt;p&gt;I successfully defended my Ph.D. dissertation entitled “Robotic planning and control for door-opening manipulation on electric power cabinets”. Cheer up! Many thanks to my supervisor, Prof. Gao Bingtuan, and all the committee members!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Towards a balancing safety against performance approach in human-robot co-manipulation for door-closing emergencies</title>
+      <link>https://chuande-liu.github.io/publication/towards-a-balancing-safety-against-performance-approach-for-emergencies-in-human-robot-co-manipulation/</link>
+      <pubDate>Tue, 01 Jun 2021 10:36:54 +0000</pubDate>
+      <guid>https://chuande-liu.github.io/publication/towards-a-balancing-safety-against-performance-approach-for-emergencies-in-human-robot-co-manipulation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Self-protective motion planning for mobile manipulators in a dynamic door-closing workspace</title>
+      <link>https://chuande-liu.github.io/publication/self-protective-motion-planning-for-mobile-manipulators-in-a-dynamic-door-closing-workspace/</link>
+      <pubDate>Sun, 28 Mar 2021 10:36:54 +0000</pubDate>
+      <guid>https://chuande-liu.github.io/publication/self-protective-motion-planning-for-mobile-manipulators-in-a-dynamic-door-closing-workspace/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Advanced robust control techniques for the stabilization of translational oscillator with rotational actuator based barge-type OFWT</title>
+      <link>https://chuande-liu.github.io/publication/advanced-robust-control-techniques-for-the-stabilization-of-tora-based-barge-type-ofwt/</link>
+      <pubDate>Thu, 11 Feb 2021 10:47:35 +0000</pubDate>
+      <guid>https://chuande-liu.github.io/publication/advanced-robust-control-techniques-for-the-stabilization-of-tora-based-barge-type-ofwt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Self-Constructed CNN Classifier for Keyhole Detection and Location</title>
+      <link>https://chuande-liu.github.io/publication/self-constructed-cnn-classifier-for-keyhole-detection-and-location/</link>
+      <pubDate>Mon, 23 Nov 2020 10:30:00 +0000</pubDate>
+      <guid>https://chuande-liu.github.io/publication/self-constructed-cnn-classifier-for-keyhole-detection-and-location/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dexterous Manipulation</title>
+      <link>https://chuande-liu.github.io/project/robotic-dexterous-manipulation-applicated-in-power-cabinets/</link>
+      <pubDate>Sat, 01 Aug 2020 08:45:43 +0000</pubDate>
+      <guid>https://chuande-liu.github.io/project/robotic-dexterous-manipulation-applicated-in-power-cabinets/</guid>
+      <description>&lt;p&gt;Many work conditions require mobile manipulators to open
+cabinet doors and then gain access to the desired workspace. However,
+after opening, the unlocked doors can easily close, interrupt a task, and
+potentially break the operating end-effectors. This project aims to address
+a mobile manipulator&amp;rsquo;s behavior and task planning problem for responding to a
+dynamic constrained workspace released by door-opening.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;featured2.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+  
+
+
+
+
+
+  
+
+
+&lt;video controls &gt;
+  &lt;source src=&#34;https://chuande-liu.github.io/media/Dexterous%20manipulation%20for%20emergencies%20in%20human-robot%20co-manipulation.mp4&#34; type=&#34;video/mp4&#34;&gt;
+&lt;/video&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Stay strong, China! 2020</title>
+      <link>https://chuande-liu.github.io/post/stay-strong-china-2020/</link>
+      <pubDate>Sun, 23 Feb 2020 05:34:40 +0000</pubDate>
+      <guid>https://chuande-liu.github.io/post/stay-strong-china-2020/</guid>
+      <description>&lt;p&gt;During my leisure time, I joined a running club called Running Panda, Paris&amp;rsquo;s largest Chinese running club in France.
+Our club spontaneously organized a Marathon 34 km tour de Paris to cheer up for Chinese Fighting COVID-19!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Welcome Day of the Doctoral School of Institut Polytechnique de Paris, France, 2019</title>
+      <link>https://chuande-liu.github.io/post/welcome-day-of-the-doctoral-school-of-institut-polytechnique-de-paris-france-2019/</link>
+      <pubDate>Tue, 10 Dec 2019 07:03:04 +0000</pubDate>
+      <guid>https://chuande-liu.github.io/post/welcome-day-of-the-doctoral-school-of-institut-polytechnique-de-paris-france-2019/</guid>
+      <description>&lt;p&gt;The &lt;a href=&#34;https://www.ip-paris.fr/en&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Institut Polytechnique de Paris&lt;/a&gt; (&lt;a href=&#34;https://www.topuniversities.com/qs-world-university-rankings?utm_source=topnav&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;QS Rank: 49&lt;/a&gt; in 2022) is a public higher education and research institution comprising five prestigious French engineering Schools in 2019:
+École Polytechnique, ENSTA Paris, ENSAE Paris, Télécom Paris and Télécom SudParis. Under the aegis of the Institute,
+they bring together two centuries of expertise to pursue two major goals: to develop world-class training programs and cutting edge research.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Meka-Robot Manipulation</title>
+      <link>https://chuande-liu.github.io/project/meka-robot-ensta-paris/</link>
+      <pubDate>Sun, 01 Sep 2019 08:45:43 +0000</pubDate>
+      <guid>https://chuande-liu.github.io/project/meka-robot-ensta-paris/</guid>
+      <description>&lt;p&gt;This &lt;a href=&#34;https://github.com/Chuande-LIU/mekabot&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;wiki&lt;/a&gt; describes the full installation of m3 software to control/simulate the Meka robot at Ensta ParisTech.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;featured2.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Disturbance Observer-Based Sliding Mode Control of TORA System for Floating Wind Turbines</title>
+      <link>https://chuande-liu.github.io/publication/disturbance-observer-based-sliding-mode-control-of-tora-system-for-floating-wind-turbines/</link>
+      <pubDate>Sun, 04 Aug 2019 10:52:00 +0000</pubDate>
+      <guid>https://chuande-liu.github.io/publication/disturbance-observer-based-sliding-mode-control-of-tora-system-for-floating-wind-turbines/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Power Cabinet Door-opening State Recognition Technology Based on Edge Feature Extraction of Monocular Vision</title>
+      <link>https://chuande-liu.github.io/publication/power-cabinet-dooropening-state-recognition/</link>
+      <pubDate>Sun, 04 Aug 2019 10:50:00 +0000</pubDate>
+      <guid>https://chuande-liu.github.io/publication/power-cabinet-dooropening-state-recognition/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Movement Planning and Control of an Overhead Power Transmission Line Inspection Bionic-Robot</title>
+      <link>https://chuande-liu.github.io/publication/movement-planning-and-control-of-a-bionic-robot/</link>
+      <pubDate>Sun, 04 Aug 2019 10:49:00 +0000</pubDate>
+      <guid>https://chuande-liu.github.io/publication/movement-planning-and-control-of-a-bionic-robot/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>IEEE-CYBER 2019, Suzhou, China</title>
+      <link>https://chuande-liu.github.io/post/ieee-cyber-2019-suzhou/</link>
+      <pubDate>Tue, 30 Jul 2019 07:05:10 +0000</pubDate>
+      <guid>https://chuande-liu.github.io/post/ieee-cyber-2019-suzhou/</guid>
+      <description>&lt;p&gt;I presented an oral at the 9th IEEE International Conference on CYBER Technology in Automation, Control, and Intelligent Systems (&lt;a href=&#34;https://www.ieee-cyber.org/2019/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;IEEE-CYBER
+2019&lt;/a&gt;) and got the finalist of best student paper reward. Great conference!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Edge Detection</title>
+      <link>https://chuande-liu.github.io/project/ai-augmented-visual-servoing-for-mobile-manipulation/</link>
+      <pubDate>Tue, 30 Apr 2019 07:30:13 +0000</pubDate>
+      <guid>https://chuande-liu.github.io/project/ai-augmented-visual-servoing-for-mobile-manipulation/</guid>
+      <description>&lt;p&gt;With the increasing intelligent demand of substations,
+more and more machine vision technologies are applied
+in smart substations. This project deals with the power
+cabinet door-opening state recognition based on edge feature
+extraction.&lt;/p&gt;
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+  
+
+
+
+
+
+  
+
+
+&lt;video controls &gt;
+  &lt;source src=&#34;https://chuande-liu.github.io/media/Teleoperation%20robot.mp4&#34; type=&#34;video/mp4&#34;&gt;
+&lt;/video&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>欠驱动TORA系统周期性动态轨迹的模糊控制设计</title>
+      <link>https://chuande-liu.github.io/publication/%E6%AC%A0%E9%A9%B1%E5%8A%A8tora%E7%B3%BB%E7%BB%9F%E5%91%A8%E6%9C%9F%E6%80%A7%E5%8A%A8%E6%80%81%E8%BD%A8%E8%BF%B9%E7%9A%84%E6%A8%A1%E7%B3%8A%E6%8E%A7%E5%88%B6%E8%AE%BE%E8%AE%A1/</link>
+      <pubDate>Wed, 06 Feb 2019 06:42:00 +0000</pubDate>
+      <guid>https://chuande-liu.github.io/publication/%E6%AC%A0%E9%A9%B1%E5%8A%A8tora%E7%B3%BB%E7%BB%9F%E5%91%A8%E6%9C%9F%E6%80%A7%E5%8A%A8%E6%80%81%E8%BD%A8%E8%BF%B9%E7%9A%84%E6%A8%A1%E7%B3%8A%E6%8E%A7%E5%88%B6%E8%AE%BE%E8%AE%A1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>2-DOF绳索驱动并联机构轨迹跟踪控制</title>
+      <link>https://chuande-liu.github.io/publication/2-dof%E7%BB%B3%E7%B4%A2%E9%A9%B1%E5%8A%A8%E5%B9%B6%E8%81%94%E6%9C%BA%E6%9E%84%E8%BD%A8%E8%BF%B9%E8%B7%9F%E8%B8%AA%E6%8E%A7%E5%88%B6/</link>
+      <pubDate>Tue, 05 Feb 2019 07:34:00 +0000</pubDate>
+      <guid>https://chuande-liu.github.io/publication/2-dof%E7%BB%B3%E7%B4%A2%E9%A9%B1%E5%8A%A8%E5%B9%B6%E8%81%94%E6%9C%BA%E6%9E%84%E8%BD%A8%E8%BF%B9%E8%B7%9F%E8%B8%AA%E6%8E%A7%E5%88%B6/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Slides</title>
+      <link>https://chuande-liu.github.io/slides/example/</link>
+      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>https://chuande-liu.github.io/slides/example/</guid>
+      <description>&lt;h1 id=&#34;create-slides-in-markdown-with-wowchemy&#34;&gt;Create slides in Markdown with Wowchemy&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&#34;https://wowchemy.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Wowchemy&lt;/a&gt; | &lt;a href=&#34;https://owchemy.com/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;features&#34;&gt;Features&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Efficiently write slides in Markdown&lt;/li&gt;
+&lt;li&gt;3-in-1: Create, Present, and Publish your slides&lt;/li&gt;
+&lt;li&gt;Supports speaker notes&lt;/li&gt;
+&lt;li&gt;Mobile friendly slides&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;controls&#34;&gt;Controls&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Next: &lt;code&gt;Right Arrow&lt;/code&gt; or &lt;code&gt;Space&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Previous: &lt;code&gt;Left Arrow&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Start: &lt;code&gt;Home&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Finish: &lt;code&gt;End&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Overview: &lt;code&gt;Esc&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Speaker notes: &lt;code&gt;S&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Fullscreen: &lt;code&gt;F&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Zoom: &lt;code&gt;Alt + Click&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/hakimel/reveal.js#pdf-export&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PDF Export&lt;/a&gt;: &lt;code&gt;E&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;code-highlighting&#34;&gt;Code Highlighting&lt;/h2&gt;
+&lt;p&gt;Inline code: &lt;code&gt;variable&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;Code block:&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;porridge = &amp;quot;blueberry&amp;quot;
+if porridge == &amp;quot;blueberry&amp;quot;:
+    print(&amp;quot;Eating...&amp;quot;)
+&lt;/code&gt;&lt;/pre&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;math&#34;&gt;Math&lt;/h2&gt;
+&lt;p&gt;In-line math: $x + y = z$&lt;/p&gt;
+&lt;p&gt;Block math:&lt;/p&gt;
+&lt;p&gt;$$
+f\left( x \right) = ;\frac{{2\left( {x + 4} \right)\left( {x - 4} \right)}}{{\left( {x + 4} \right)\left( {x + 1} \right)}}
+$$&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;fragments&#34;&gt;Fragments&lt;/h2&gt;
+&lt;p&gt;Make content appear incrementally&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;{{% fragment %}} One {{% /fragment %}}
+{{% fragment %}} **Two** {{% /fragment %}}
+{{% fragment %}} Three {{% /fragment %}}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Press &lt;code&gt;Space&lt;/code&gt; to play!&lt;/p&gt;
+&lt;p&gt;&lt;span class=&#34;fragment &#34; &gt;
+One
+&lt;/span&gt;
+&lt;span class=&#34;fragment &#34; &gt;
+&lt;strong&gt;Two&lt;/strong&gt;
+&lt;/span&gt;
+&lt;span class=&#34;fragment &#34; &gt;
+Three
+&lt;/span&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;A fragment can accept two optional parameters:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;class&lt;/code&gt;: use a custom style (requires definition in custom CSS)&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;weight&lt;/code&gt;: sets the order in which a fragment appears&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;speaker-notes&#34;&gt;Speaker Notes&lt;/h2&gt;
+&lt;p&gt;Add speaker notes to your presentation&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-markdown&#34;&gt;{{% speaker_note %}}
+- Only the speaker can read these notes
+- Press `S` key to view
+{{% /speaker_note %}}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Press the &lt;code&gt;S&lt;/code&gt; key to view the speaker notes!&lt;/p&gt;
+&lt;aside class=&#34;notes&#34;&gt;
+  &lt;ul&gt;
+&lt;li&gt;Only the speaker can read these notes&lt;/li&gt;
+&lt;li&gt;Press &lt;code&gt;S&lt;/code&gt; key to view&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;/aside&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;themes&#34;&gt;Themes&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;black: Black background, white text, blue links (default)&lt;/li&gt;
+&lt;li&gt;white: White background, black text, blue links&lt;/li&gt;
+&lt;li&gt;league: Gray background, white text, blue links&lt;/li&gt;
+&lt;li&gt;beige: Beige background, dark text, brown links&lt;/li&gt;
+&lt;li&gt;sky: Blue background, thin dark text, blue links&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;ul&gt;
+&lt;li&gt;night: Black background, thick white text, orange links&lt;/li&gt;
+&lt;li&gt;serif: Cappuccino background, gray text, brown links&lt;/li&gt;
+&lt;li&gt;simple: White background, black text, blue links&lt;/li&gt;
+&lt;li&gt;solarized: Cream-colored background, dark green text, blue links&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+
+&lt;section data-noprocess data-shortcode-slide
+  
+      
+      data-background-image=&#34;/media/boards.jpg&#34;
+  &gt;
+
+&lt;h2 id=&#34;custom-slide&#34;&gt;Custom Slide&lt;/h2&gt;
+&lt;p&gt;Customize the slide style and background&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-markdown&#34;&gt;{{&amp;lt; slide background-image=&amp;quot;/media/boards.jpg&amp;quot; &amp;gt;}}
+{{&amp;lt; slide background-color=&amp;quot;#0000FF&amp;quot; &amp;gt;}}
+{{&amp;lt; slide class=&amp;quot;my-style&amp;quot; &amp;gt;}}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;custom-css-example&#34;&gt;Custom CSS Example&lt;/h2&gt;
+&lt;p&gt;Let&amp;rsquo;s make headers navy colored.&lt;/p&gt;
+&lt;p&gt;Create &lt;code&gt;assets/css/reveal_custom.css&lt;/code&gt; with:&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-css&#34;&gt;.reveal section h1,
+.reveal section h2,
+.reveal section h3 {
+  color: navy;
+}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;hr&gt;
+&lt;h1 id=&#34;questions&#34;&gt;Questions?&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/wowchemy/wowchemy-hugo-modules/discussions&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ask&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wowchemy.com/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>High-voltage Insulator Defect Detection</title>
+      <link>https://chuande-liu.github.io/project/the-detection-vehicle-for-high-voltage-insulator-defects/</link>
+      <pubDate>Thu, 13 Dec 2018 04:53:28 +0000</pubDate>
+      <guid>https://chuande-liu.github.io/project/the-detection-vehicle-for-high-voltage-insulator-defects/</guid>
+      <description>&lt;p&gt;Insulators are the key components of the power system.
+Insulator failures can cause outages and affect the safety and power supply.
+It is important to perform insulator defect detection.
+In order to detect the defects of outdoor insulators under uninterrupted power conditions,
+we designed a mobile vehicle that can automatically detect the defect of High-voltage insulators in live-line working.&lt;/p&gt;
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+  
+
+
+
+
+
+  
+
+
+&lt;video controls &gt;
+  &lt;source src=&#34;https://chuande-liu.github.io/media/The%20detection%20vehicle%20for%20high-voltage%20insulator%20defects.mp4&#34; type=&#34;video/mp4&#34;&gt;
+&lt;/video&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Orbitally stabilizing control for the underactuated translational oscillator with rotational actuator system: Design and experimentation</title>
+      <link>https://chuande-liu.github.io/publication/orbitally-stabilizing-control-for-tora-design-and-experimentation/</link>
+      <pubDate>Wed, 11 Apr 2018 10:22:00 +0000</pubDate>
+      <guid>https://chuande-liu.github.io/publication/orbitally-stabilizing-control-for-tora-design-and-experimentation/</guid>
+      <description>
+
+
+
+
+
+  
+  
+
+
+
+
+
+  
+
+
+
+
+
+  
+
+
+&lt;video controls &gt;
+  &lt;source src=&#34;https://chuande-liu.github.io/media/Orbitally%20Stabilizing%20Control%20for%20TORA%20Design%20and%20Experimentation.mp4&#34; type=&#34;video/mp4&#34;&gt;
+&lt;/video&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>欠驱动TORA 振荡轨迹跟踪的模糊控制设计</title>
+      <link>https://chuande-liu.github.io/publication/%E6%AC%A0%E9%A9%B1%E5%8A%A8tora-%E6%8C%AF%E8%8D%A1%E8%BD%A8%E8%BF%B9%E8%B7%9F%E8%B8%AA%E7%9A%84%E6%A8%A1%E7%B3%8A%E6%8E%A7%E5%88%B6%E8%AE%BE%E8%AE%A1/</link>
+      <pubDate>Mon, 05 Feb 2018 00:38:00 +0000</pubDate>
+      <guid>https://chuande-liu.github.io/publication/%E6%AC%A0%E9%A9%B1%E5%8A%A8tora-%E6%8C%AF%E8%8D%A1%E8%BD%A8%E8%BF%B9%E8%B7%9F%E8%B8%AA%E7%9A%84%E6%A8%A1%E7%B3%8A%E6%8E%A7%E5%88%B6%E8%AE%BE%E8%AE%A1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>一种具有旋转激励的平移振荡装置的周期性轨迹控制方法</title>
+      <link>https://chuande-liu.github.io/publication/%E4%B8%80%E7%A7%8D%E5%85%B7%E6%9C%89%E6%97%8B%E8%BD%AC%E6%BF%80%E5%8A%B1%E7%9A%84%E5%B9%B3%E7%A7%BB%E6%8C%AF%E8%8D%A1%E8%A3%85%E7%BD%AE%E7%9A%84%E5%91%A8%E6%9C%9F%E6%80%A7%E8%BD%A8%E8%BF%B9%E6%8E%A7%E5%88%B6%E6%96%B9%E6%B3%95/</link>
+      <pubDate>Wed, 31 Jan 2018 10:46:00 +0000</pubDate>
+      <guid>https://chuande-liu.github.io/publication/%E4%B8%80%E7%A7%8D%E5%85%B7%E6%9C%89%E6%97%8B%E8%BD%AC%E6%BF%80%E5%8A%B1%E7%9A%84%E5%B9%B3%E7%A7%BB%E6%8C%AF%E8%8D%A1%E8%A3%85%E7%BD%AE%E7%9A%84%E5%91%A8%E6%9C%9F%E6%80%A7%E8%BD%A8%E8%BF%B9%E6%8E%A7%E5%88%B6%E6%96%B9%E6%B3%95/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>World Robot Conference 2017, Beijing, China</title>
+      <link>https://chuande-liu.github.io/post/world-robot-conference-2017/</link>
+      <pubDate>Fri, 25 Aug 2017 07:05:10 +0000</pubDate>
+      <guid>https://chuande-liu.github.io/post/world-robot-conference-2017/</guid>
+      <description>&lt;p&gt;I participated in the (&lt;a href=&#34;http://www.worldrobotconference.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;World Robot Conference 2017&lt;/a&gt;) with Prof. Bingtuan Gao. Great conference WCR 2017!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Bionic Robot</title>
+      <link>https://chuande-liu.github.io/project/motion-planning-for-bionic-robot/</link>
+      <pubDate>Mon, 30 Jan 2017 07:47:49 +0000</pubDate>
+      <guid>https://chuande-liu.github.io/project/motion-planning-for-bionic-robot/</guid>
+      <description>&lt;p&gt;Inspection robotics is attracting much attention on
+overhead power transmission lines to replace manual inspection
+tour. In this paper, based on a benchmark of underactuated
+Acrobot, we mainly focus on movements and control of a
+two-link bionic-robot for online inspection by adding grippers
+at the end of connecting links. 
+&lt;img src=&#34;bio-primitive-robot.jpg&#34; alt=&#34;&#34;&gt;
+&lt;strong&gt;Figure 1.&lt;/strong&gt;  A two-link brachiating bio-robot system&lt;/p&gt;
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+  
+
+
+
+
+
+  
+
+
+&lt;video controls &gt;
+  &lt;source src=&#34;https://chuande-liu.github.io/media/Bionic-robot%20swing-up.mp4&#34; type=&#34;video/mp4&#34;&gt;
+&lt;/video&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Power Insulator Defect Detection</title>
+      <link>https://chuande-liu.github.io/project/the-intelligent-platform-for-power-insulator-defect-detection/</link>
+      <pubDate>Fri, 13 Jan 2017 04:33:37 +0000</pubDate>
+      <guid>https://chuande-liu.github.io/project/the-intelligent-platform-for-power-insulator-defect-detection/</guid>
+      <description>&lt;p&gt;Insulators are the key components of the power system.
+Insulator failures can cause outages and affect the safety and power supply.
+It is important to perform insulator defect detection.
+Due to the collection of insulator images by moving catenary inspection vehicles,
+the consistency of the images is poor, and the number of insulator defect samples is very small.
+The conventional template matching cannot meet the requirements of insulator defect detection.
+This project proposes an automatic device to detect defects for different types of insulators.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;platform.jpg&#34; alt=&#34;&#34;&gt;
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+  
+
+
+
+
+
+  
+
+
+&lt;video controls &gt;
+  &lt;source src=&#34;https://chuande-liu.github.io/media/Power%20Insulator%20Defect%20Detection.mp4&#34; type=&#34;video/mp4&#34;&gt;
+&lt;/video&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>TORA系统周期性轨迹稳定控制策略研究</title>
+      <link>https://chuande-liu.github.io/publication/tora%E7%B3%BB%E7%BB%9F%E5%91%A8%E6%9C%9F%E6%80%A7%E8%BD%A8%E8%BF%B9%E7%A8%B3%E5%AE%9A%E6%8E%A7%E5%88%B6%E7%AD%96%E7%95%A5%E7%A0%94%E7%A9%B6/</link>
+      <pubDate>Mon, 12 Dec 2016 06:42:00 +0000</pubDate>
+      <guid>https://chuande-liu.github.io/publication/tora%E7%B3%BB%E7%BB%9F%E5%91%A8%E6%9C%9F%E6%80%A7%E8%BD%A8%E8%BF%B9%E7%A8%B3%E5%AE%9A%E6%8E%A7%E5%88%B6%E7%AD%96%E7%95%A5%E7%A0%94%E7%A9%B6/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An omnidirectional 3D sensor with line laser scanning</title>
+      <link>https://chuande-liu.github.io/publication/an-omnidirectional-3d-sensor-with-line-laser-scanning/</link>
+      <pubDate>Mon, 11 Apr 2016 10:30:00 +0000</pubDate>
+      <guid>https://chuande-liu.github.io/publication/an-omnidirectional-3d-sensor-with-line-laser-scanning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Virtual constraints based control design of an inclined Translational Oscillator with Rotational Actuator System</title>
+      <link>https://chuande-liu.github.io/publication/virtual-constraints-based-control-design-of-an-inclined-tora/</link>
+      <pubDate>Mon, 11 May 2015 10:25:00 +0000</pubDate>
+      <guid>https://chuande-liu.github.io/publication/virtual-constraints-based-control-design-of-an-inclined-tora/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Under-actuated Machine Control</title>
+      <link>https://chuande-liu.github.io/project/tracking-control-for-under-actuated-robot-systems/</link>
+      <pubDate>Mon, 12 Jan 2015 07:14:28 +0000</pubDate>
+      <guid>https://chuande-liu.github.io/project/tracking-control-for-under-actuated-robot-systems/</guid>
+      <description>&lt;p&gt;Offshore floating wind turbine exhibits plastic vibration for power generation. 
+The similar vibration happens to the oscillating screen machine, commonly seen in the power plant&amp;rsquo;s coal preparation process. 
+They are under-actuated phenomena. Analyzing the under-actuated mechanism, 
+we developed under-actuated TORA (translational oscillator with rotational actuator) system to stabilize the oscillation of offshore wind turbine and solve the oscillating screen machine’s flexible control problems.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;tora-model-for-machine1.jpg&#34; alt=&#34;&#34;&gt;
+&lt;strong&gt;Figure 1.&lt;/strong&gt; The under-actuated mechanism of offshore wind turbine and screen machine&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;tora-platform.jpg&#34; alt=&#34;&#34;&gt;
+&lt;strong&gt;Figure 2.&lt;/strong&gt; Our self-developed platform of the under-actuated TORA system&lt;/p&gt;
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+  
+
+
+
+
+
+  
+
+
+&lt;video controls &gt;
+  &lt;source src=&#34;https://chuande-liu.github.io/media/Orbitally%20Stabilizing%20Control%20for%20TORA%20Design%20and%20Experimentation.mp4&#34; type=&#34;video/mp4&#34;&gt;
+&lt;/video&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://chuande-liu.github.io/admin/config.yml</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://chuande-liu.github.io/admin/config.yml</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://chuande-liu.github.io/home/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://chuande-liu.github.io/home/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

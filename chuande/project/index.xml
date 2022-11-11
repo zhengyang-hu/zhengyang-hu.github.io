@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects | Chuande Liu</title>
+    <link>https://chuande-liu.github.io/project/</link>
+      <atom:link href="https://chuande-liu.github.io/project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Aug 2020 08:45:43 +0000</lastBuildDate>
+    <image>
+      <url>https://chuande-liu.github.io/media/avatar.jpg</url>
+      <title>Projects</title>
+      <link>https://chuande-liu.github.io/project/</link>
+    </image>
+    
+    <item>
+      <title>Dexterous Manipulation</title>
+      <link>https://chuande-liu.github.io/project/robotic-dexterous-manipulation-applicated-in-power-cabinets/</link>
+      <pubDate>Sat, 01 Aug 2020 08:45:43 +0000</pubDate>
+      <guid>https://chuande-liu.github.io/project/robotic-dexterous-manipulation-applicated-in-power-cabinets/</guid>
+      <description>&lt;p&gt;Many work conditions require mobile manipulators to open
+cabinet doors and then gain access to the desired workspace. However,
+after opening, the unlocked doors can easily close, interrupt a task, and
+potentially break the operating end-effectors. This project aims to address
+a mobile manipulator&amp;rsquo;s behavior and task planning problem for responding to a
+dynamic constrained workspace released by door-opening.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;featured2.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+  
+
+
+
+
+
+  
+
+
+&lt;video controls &gt;
+  &lt;source src=&#34;https://chuande-liu.github.io/media/Dexterous%20manipulation%20for%20emergencies%20in%20human-robot%20co-manipulation.mp4&#34; type=&#34;video/mp4&#34;&gt;
+&lt;/video&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Meka-Robot Manipulation</title>
+      <link>https://chuande-liu.github.io/project/meka-robot-ensta-paris/</link>
+      <pubDate>Sun, 01 Sep 2019 08:45:43 +0000</pubDate>
+      <guid>https://chuande-liu.github.io/project/meka-robot-ensta-paris/</guid>
+      <description>&lt;p&gt;This &lt;a href=&#34;https://github.com/Chuande-LIU/mekabot&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;wiki&lt;/a&gt; describes the full installation of m3 software to control/simulate the Meka robot at Ensta ParisTech.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;featured2.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Edge Detection</title>
+      <link>https://chuande-liu.github.io/project/ai-augmented-visual-servoing-for-mobile-manipulation/</link>
+      <pubDate>Tue, 30 Apr 2019 07:30:13 +0000</pubDate>
+      <guid>https://chuande-liu.github.io/project/ai-augmented-visual-servoing-for-mobile-manipulation/</guid>
+      <description>&lt;p&gt;With the increasing intelligent demand of substations,
+more and more machine vision technologies are applied
+in smart substations. This project deals with the power
+cabinet door-opening state recognition based on edge feature
+extraction.&lt;/p&gt;
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+  
+
+
+
+
+
+  
+
+
+&lt;video controls &gt;
+  &lt;source src=&#34;https://chuande-liu.github.io/media/Teleoperation%20robot.mp4&#34; type=&#34;video/mp4&#34;&gt;
+&lt;/video&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>High-voltage Insulator Defect Detection</title>
+      <link>https://chuande-liu.github.io/project/the-detection-vehicle-for-high-voltage-insulator-defects/</link>
+      <pubDate>Thu, 13 Dec 2018 04:53:28 +0000</pubDate>
+      <guid>https://chuande-liu.github.io/project/the-detection-vehicle-for-high-voltage-insulator-defects/</guid>
+      <description>&lt;p&gt;Insulators are the key components of the power system.
+Insulator failures can cause outages and affect the safety and power supply.
+It is important to perform insulator defect detection.
+In order to detect the defects of outdoor insulators under uninterrupted power conditions,
+we designed a mobile vehicle that can automatically detect the defect of High-voltage insulators in live-line working.&lt;/p&gt;
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+  
+
+
+
+
+
+  
+
+
+&lt;video controls &gt;
+  &lt;source src=&#34;https://chuande-liu.github.io/media/The%20detection%20vehicle%20for%20high-voltage%20insulator%20defects.mp4&#34; type=&#34;video/mp4&#34;&gt;
+&lt;/video&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Bionic Robot</title>
+      <link>https://chuande-liu.github.io/project/motion-planning-for-bionic-robot/</link>
+      <pubDate>Mon, 30 Jan 2017 07:47:49 +0000</pubDate>
+      <guid>https://chuande-liu.github.io/project/motion-planning-for-bionic-robot/</guid>
+      <description>&lt;p&gt;Inspection robotics is attracting much attention on
+overhead power transmission lines to replace manual inspection
+tour. In this paper, based on a benchmark of underactuated
+Acrobot, we mainly focus on movements and control of a
+two-link bionic-robot for online inspection by adding grippers
+at the end of connecting links. 
+&lt;img src=&#34;bio-primitive-robot.jpg&#34; alt=&#34;&#34;&gt;
+&lt;strong&gt;Figure 1.&lt;/strong&gt;  A two-link brachiating bio-robot system&lt;/p&gt;
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+  
+
+
+
+
+
+  
+
+
+&lt;video controls &gt;
+  &lt;source src=&#34;https://chuande-liu.github.io/media/Bionic-robot%20swing-up.mp4&#34; type=&#34;video/mp4&#34;&gt;
+&lt;/video&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Power Insulator Defect Detection</title>
+      <link>https://chuande-liu.github.io/project/the-intelligent-platform-for-power-insulator-defect-detection/</link>
+      <pubDate>Fri, 13 Jan 2017 04:33:37 +0000</pubDate>
+      <guid>https://chuande-liu.github.io/project/the-intelligent-platform-for-power-insulator-defect-detection/</guid>
+      <description>&lt;p&gt;Insulators are the key components of the power system.
+Insulator failures can cause outages and affect the safety and power supply.
+It is important to perform insulator defect detection.
+Due to the collection of insulator images by moving catenary inspection vehicles,
+the consistency of the images is poor, and the number of insulator defect samples is very small.
+The conventional template matching cannot meet the requirements of insulator defect detection.
+This project proposes an automatic device to detect defects for different types of insulators.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;platform.jpg&#34; alt=&#34;&#34;&gt;
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+  
+
+
+
+
+
+  
+
+
+&lt;video controls &gt;
+  &lt;source src=&#34;https://chuande-liu.github.io/media/Power%20Insulator%20Defect%20Detection.mp4&#34; type=&#34;video/mp4&#34;&gt;
+&lt;/video&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Under-actuated Machine Control</title>
+      <link>https://chuande-liu.github.io/project/tracking-control-for-under-actuated-robot-systems/</link>
+      <pubDate>Mon, 12 Jan 2015 07:14:28 +0000</pubDate>
+      <guid>https://chuande-liu.github.io/project/tracking-control-for-under-actuated-robot-systems/</guid>
+      <description>&lt;p&gt;Offshore floating wind turbine exhibits plastic vibration for power generation. 
+The similar vibration happens to the oscillating screen machine, commonly seen in the power plant&amp;rsquo;s coal preparation process. 
+They are under-actuated phenomena. Analyzing the under-actuated mechanism, 
+we developed under-actuated TORA (translational oscillator with rotational actuator) system to stabilize the oscillation of offshore wind turbine and solve the oscillating screen machine’s flexible control problems.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;tora-model-for-machine1.jpg&#34; alt=&#34;&#34;&gt;
+&lt;strong&gt;Figure 1.&lt;/strong&gt; The under-actuated mechanism of offshore wind turbine and screen machine&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;tora-platform.jpg&#34; alt=&#34;&#34;&gt;
+&lt;strong&gt;Figure 2.&lt;/strong&gt; Our self-developed platform of the under-actuated TORA system&lt;/p&gt;
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+  
+
+
+
+
+
+  
+
+
+&lt;video controls &gt;
+  &lt;source src=&#34;https://chuande-liu.github.io/media/Orbitally%20Stabilizing%20Control%20for%20TORA%20Design%20and%20Experimentation.mp4&#34; type=&#34;video/mp4&#34;&gt;
+&lt;/video&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publication_types | Chuande Liu</title>
+    <link>https://chuande-liu.github.io/publication_types/</link>
+      <atom:link href="https://chuande-liu.github.io/publication_types/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publication_types</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jun 2021 10:36:54 +0000</lastBuildDate>
+    <image>
+      <url>https://chuande-liu.github.io/media/avatar.jpg</url>
+      <title>Publication_types</title>
+      <link>https://chuande-liu.github.io/publication_types/</link>
+    </image>
+    
+  </channel>
+</rss>

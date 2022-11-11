@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Under-actuated Robot | Chuande Liu</title>
+    <link>https://chuande-liu.github.io/tag/under-actuated-robot/</link>
+      <atom:link href="https://chuande-liu.github.io/tag/under-actuated-robot/index.xml" rel="self" type="application/rss+xml" />
+    <description>Under-actuated Robot</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 12 Jan 2015 07:14:28 +0000</lastBuildDate>
+    <image>
+      <url>https://chuande-liu.github.io/media/avatar.jpg</url>
+      <title>Under-actuated Robot</title>
+      <link>https://chuande-liu.github.io/tag/under-actuated-robot/</link>
+    </image>
+    
+    <item>
+      <title>Under-actuated Machine Control</title>
+      <link>https://chuande-liu.github.io/project/tracking-control-for-under-actuated-robot-systems/</link>
+      <pubDate>Mon, 12 Jan 2015 07:14:28 +0000</pubDate>
+      <guid>https://chuande-liu.github.io/project/tracking-control-for-under-actuated-robot-systems/</guid>
+      <description>&lt;p&gt;Offshore floating wind turbine exhibits plastic vibration for power generation. 
+The similar vibration happens to the oscillating screen machine, commonly seen in the power plant&amp;rsquo;s coal preparation process. 
+They are under-actuated phenomena. Analyzing the under-actuated mechanism, 
+we developed under-actuated TORA (translational oscillator with rotational actuator) system to stabilize the oscillation of offshore wind turbine and solve the oscillating screen machine’s flexible control problems.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;tora-model-for-machine1.jpg&#34; alt=&#34;&#34;&gt;
+&lt;strong&gt;Figure 1.&lt;/strong&gt; The under-actuated mechanism of offshore wind turbine and screen machine&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;tora-platform.jpg&#34; alt=&#34;&#34;&gt;
+&lt;strong&gt;Figure 2.&lt;/strong&gt; Our self-developed platform of the under-actuated TORA system&lt;/p&gt;
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+  
+
+
+
+
+
+  
+
+
+&lt;video controls &gt;
+  &lt;source src=&#34;https://chuande-liu.github.io/media/Orbitally%20Stabilizing%20Control%20for%20TORA%20Design%20and%20Experimentation.mp4&#34; type=&#34;video/mp4&#34;&gt;
+&lt;/video&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

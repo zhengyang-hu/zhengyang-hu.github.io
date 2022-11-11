@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Robotic Dexterous Manipulation | Chuande Liu</title>
+    <link>https://chuande-liu.github.io/tag/robotic-dexterous-manipulation/</link>
+      <atom:link href="https://chuande-liu.github.io/tag/robotic-dexterous-manipulation/index.xml" rel="self" type="application/rss+xml" />
+    <description>Robotic Dexterous Manipulation</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Aug 2020 08:45:43 +0000</lastBuildDate>
+    <image>
+      <url>https://chuande-liu.github.io/media/avatar.jpg</url>
+      <title>Robotic Dexterous Manipulation</title>
+      <link>https://chuande-liu.github.io/tag/robotic-dexterous-manipulation/</link>
+    </image>
+    
+    <item>
+      <title>Dexterous Manipulation</title>
+      <link>https://chuande-liu.github.io/project/robotic-dexterous-manipulation-applicated-in-power-cabinets/</link>
+      <pubDate>Sat, 01 Aug 2020 08:45:43 +0000</pubDate>
+      <guid>https://chuande-liu.github.io/project/robotic-dexterous-manipulation-applicated-in-power-cabinets/</guid>
+      <description>&lt;p&gt;Many work conditions require mobile manipulators to open
+cabinet doors and then gain access to the desired workspace. However,
+after opening, the unlocked doors can easily close, interrupt a task, and
+potentially break the operating end-effectors. This project aims to address
+a mobile manipulator&amp;rsquo;s behavior and task planning problem for responding to a
+dynamic constrained workspace released by door-opening.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;featured2.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+  
+
+
+
+
+
+  
+
+
+&lt;video controls &gt;
+  &lt;source src=&#34;https://chuande-liu.github.io/media/Dexterous%20manipulation%20for%20emergencies%20in%20human-robot%20co-manipulation.mp4&#34; type=&#34;video/mp4&#34;&gt;
+&lt;/video&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Meka-Robot Manipulation</title>
+      <link>https://chuande-liu.github.io/project/meka-robot-ensta-paris/</link>
+      <pubDate>Sun, 01 Sep 2019 08:45:43 +0000</pubDate>
+      <guid>https://chuande-liu.github.io/project/meka-robot-ensta-paris/</guid>
+      <description>&lt;p&gt;This &lt;a href=&#34;https://github.com/Chuande-LIU/mekabot&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;wiki&lt;/a&gt; describes the full installation of m3 software to control/simulate the Meka robot at Ensta ParisTech.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;featured2.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

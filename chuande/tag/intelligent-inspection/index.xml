@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Intelligent Inspection | Chuande Liu</title>
+    <link>https://chuande-liu.github.io/tag/intelligent-inspection/</link>
+      <atom:link href="https://chuande-liu.github.io/tag/intelligent-inspection/index.xml" rel="self" type="application/rss+xml" />
+    <description>Intelligent Inspection</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 30 Apr 2019 07:30:13 +0000</lastBuildDate>
+    <image>
+      <url>https://chuande-liu.github.io/media/avatar.jpg</url>
+      <title>Intelligent Inspection</title>
+      <link>https://chuande-liu.github.io/tag/intelligent-inspection/</link>
+    </image>
+    
+    <item>
+      <title>Edge Detection</title>
+      <link>https://chuande-liu.github.io/project/ai-augmented-visual-servoing-for-mobile-manipulation/</link>
+      <pubDate>Tue, 30 Apr 2019 07:30:13 +0000</pubDate>
+      <guid>https://chuande-liu.github.io/project/ai-augmented-visual-servoing-for-mobile-manipulation/</guid>
+      <description>&lt;p&gt;With the increasing intelligent demand of substations,
+more and more machine vision technologies are applied
+in smart substations. This project deals with the power
+cabinet door-opening state recognition based on edge feature
+extraction.&lt;/p&gt;
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+  
+
+
+
+
+
+  
+
+
+&lt;video controls &gt;
+  &lt;source src=&#34;https://chuande-liu.github.io/media/Teleoperation%20robot.mp4&#34; type=&#34;video/mp4&#34;&gt;
+&lt;/video&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>High-voltage Insulator Defect Detection</title>
+      <link>https://chuande-liu.github.io/project/the-detection-vehicle-for-high-voltage-insulator-defects/</link>
+      <pubDate>Thu, 13 Dec 2018 04:53:28 +0000</pubDate>
+      <guid>https://chuande-liu.github.io/project/the-detection-vehicle-for-high-voltage-insulator-defects/</guid>
+      <description>&lt;p&gt;Insulators are the key components of the power system.
+Insulator failures can cause outages and affect the safety and power supply.
+It is important to perform insulator defect detection.
+In order to detect the defects of outdoor insulators under uninterrupted power conditions,
+we designed a mobile vehicle that can automatically detect the defect of High-voltage insulators in live-line working.&lt;/p&gt;
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+  
+
+
+
+
+
+  
+
+
+&lt;video controls &gt;
+  &lt;source src=&#34;https://chuande-liu.github.io/media/The%20detection%20vehicle%20for%20high-voltage%20insulator%20defects.mp4&#34; type=&#34;video/mp4&#34;&gt;
+&lt;/video&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Power Insulator Defect Detection</title>
+      <link>https://chuande-liu.github.io/project/the-intelligent-platform-for-power-insulator-defect-detection/</link>
+      <pubDate>Fri, 13 Jan 2017 04:33:37 +0000</pubDate>
+      <guid>https://chuande-liu.github.io/project/the-intelligent-platform-for-power-insulator-defect-detection/</guid>
+      <description>&lt;p&gt;Insulators are the key components of the power system.
+Insulator failures can cause outages and affect the safety and power supply.
+It is important to perform insulator defect detection.
+Due to the collection of insulator images by moving catenary inspection vehicles,
+the consistency of the images is poor, and the number of insulator defect samples is very small.
+The conventional template matching cannot meet the requirements of insulator defect detection.
+This project proposes an automatic device to detect defects for different types of insulators.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;platform.jpg&#34; alt=&#34;&#34;&gt;
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+  
+
+
+
+
+
+  
+
+
+&lt;video controls &gt;
+  &lt;source src=&#34;https://chuande-liu.github.io/media/Power%20Insulator%20Defect%20Detection.mp4&#34; type=&#34;video/mp4&#34;&gt;
+&lt;/video&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

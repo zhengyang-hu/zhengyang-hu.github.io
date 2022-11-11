@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bionic-Robot | Chuande Liu</title>
+    <link>https://chuande-liu.github.io/tag/bionic-robot/</link>
+      <atom:link href="https://chuande-liu.github.io/tag/bionic-robot/index.xml" rel="self" type="application/rss+xml" />
+    <description>Bionic-Robot</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 30 Jan 2017 07:47:49 +0000</lastBuildDate>
+    <image>
+      <url>https://chuande-liu.github.io/media/avatar.jpg</url>
+      <title>Bionic-Robot</title>
+      <link>https://chuande-liu.github.io/tag/bionic-robot/</link>
+    </image>
+    
+    <item>
+      <title>Bionic Robot</title>
+      <link>https://chuande-liu.github.io/project/motion-planning-for-bionic-robot/</link>
+      <pubDate>Mon, 30 Jan 2017 07:47:49 +0000</pubDate>
+      <guid>https://chuande-liu.github.io/project/motion-planning-for-bionic-robot/</guid>
+      <description>&lt;p&gt;Inspection robotics is attracting much attention on
+overhead power transmission lines to replace manual inspection
+tour. In this paper, based on a benchmark of underactuated
+Acrobot, we mainly focus on movements and control of a
+two-link bionic-robot for online inspection by adding grippers
+at the end of connecting links. 
+&lt;img src=&#34;bio-primitive-robot.jpg&#34; alt=&#34;&#34;&gt;
+&lt;strong&gt;Figure 1.&lt;/strong&gt;  A two-link brachiating bio-robot system&lt;/p&gt;
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+  
+
+
+
+
+
+  
+
+
+&lt;video controls &gt;
+  &lt;source src=&#34;https://chuande-liu.github.io/media/Bionic-robot%20swing-up.mp4&#34; type=&#34;video/mp4&#34;&gt;
+&lt;/video&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

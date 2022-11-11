@@ -1,0 +1,2616 @@
+<!DOCTYPE html><html lang="en-us" >
+
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  
+  
+  
+    <meta name="generator" content="Wowchemy 5.0.0-beta.2 for Hugo" />
+  
+
+  
+
+  
+  
+
+  
+  
+  
+  
+  
+    
+    
+    
+  
+  
+
+  <meta name="author" content="Chuande Liu" />
+
+  
+  
+  
+    
+  
+  <meta name="description" content=" To apply under-actuated technology to stabilize the oscillation of offshore wind turbine and slove control problems in oscillating screen machine" />
+
+  
+  <link rel="alternate" hreflang="en-us" href="https://chuande-liu.github.io/project/tracking-control-for-under-actuated-robot-systems/" />
+
+  
+
+
+
+
+
+
+
+  
+
+
+
+
+  
+  
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  
+
+  
+  
+  
+    <meta name="theme-color" content="#1565c0" />
+  
+
+  
+  
+
+  
+  
+  
+  
+    
+    
+      <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/academicons/1.9.0/css/academicons.min.css" integrity="sha512-W4yqoT1+8NLkinBLBZko+dFB2ZbHsYLDdr50VElllRcNt2Q4/GSs6u71UHKxB7S6JEMCp5Ve4xjh3eGQl/HRvg==" crossorigin="anonymous">
+    
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.14.0/css/all.min.css" integrity="sha256-FMvZuGapsJLjouA6k7Eo2lusoAX9i0ShlWFG6qt7SLc=" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.css" integrity="sha256-Vzbj7sDDS/woiFS3uNKo8eIuni59rjyNGtXfstRzStA=" crossorigin="anonymous" media="print" onload="this.media='all'">
+
+    
+    
+    
+      
+    
+    
+      
+      
+        
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.2.0/styles/github.min.css" crossorigin="anonymous" title="hl-light" media="print" onload="this.media='all'">
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.2.0/styles/dracula.min.css" crossorigin="anonymous" title="hl-dark" media="print" onload="this.media='all'" disabled>
+        
+      
+    
+
+    
+    
+    
+      <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.7.1/leaflet.min.css" integrity="sha512-1xoFisiGdy9nvho8EgXuXvnpR5GAMSjFwp40gSRE3NwdUdIMIKuPa7bqoUhLD0O/5tPNhteAsE5XyyMi5reQVA==" crossorigin="anonymous" media="print" onload="this.media='all'">
+    
+
+    
+
+    
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/lazysizes/5.2.2/lazysizes.min.js" integrity="sha512-TmDwFLhg3UA4ZG0Eb4MIyT1O1Mb+Oww5kFG0uHqXsdbyZz9DcvYQhKpGgNkamAI6h2lGGZq2X8ftOJvF/XjTUg==" crossorigin="anonymous" async></script>
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+        
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+  
+
+  
+  
+  
+    
+      
+      <link rel="preload" as="style" href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&family=Roboto+Mono&family=Roboto:wght@400;700&display=swap">
+      <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&family=Roboto+Mono&family=Roboto:wght@400;700&display=swap" media="print" onload="this.media='all'">
+    
+  
+
+  
+  
+  
+  
+  
+  <link rel="stylesheet" href="/css/wowchemy.dd90b8698d7ba5e114b9de5647a585e5.css" />
+
+  
+
+
+
+  
+
+  
+
+
+  
+  
+  
+
+  
+
+  
+    <link rel="manifest" href="/index.webmanifest" />
+  
+
+  <link rel="icon" type="image/png" href="/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_32x32_fill_lanczos_center_2.png" />
+  <link rel="apple-touch-icon" type="image/png" href="/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_180x180_fill_lanczos_center_2.png" />
+
+  <link rel="canonical" href="https://chuande-liu.github.io/project/tracking-control-for-under-actuated-robot-systems/" />
+
+  
+  
+  
+  
+  
+  
+  
+    
+  
+  
+  <meta property="twitter:card" content="summary_large_image" />
+  
+  <meta property="og:site_name" content="Chuande Liu" />
+  <meta property="og:url" content="https://chuande-liu.github.io/project/tracking-control-for-under-actuated-robot-systems/" />
+  <meta property="og:title" content="Under-actuated Machine Control | Chuande Liu" />
+  <meta property="og:description" content=" To apply under-actuated technology to stabilize the oscillation of offshore wind turbine and slove control problems in oscillating screen machine" /><meta property="og:image" content="https://chuande-liu.github.io/project/tracking-control-for-under-actuated-robot-systems/featured.jpg" />
+    <meta property="twitter:image" content="https://chuande-liu.github.io/project/tracking-control-for-under-actuated-robot-systems/featured.jpg" /><meta property="og:locale" content="en-us" />
+  
+    
+      <meta
+        property="article:published_time"
+        content="2015-01-12T07:14:28&#43;00:00"
+      />
+    
+    <meta property="article:modified_time" content="2015-01-12T07:14:28&#43;00:00">
+  
+
+  
+
+
+    
+
+
+
+
+
+
+
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://chuande-liu.github.io/project/tracking-control-for-under-actuated-robot-systems/"
+  },
+  "headline": "Under-actuated Machine Control",
+  
+  "image": [
+    "https://chuande-liu.github.io/project/tracking-control-for-under-actuated-robot-systems/featured.jpg"
+  ],
+  
+  "datePublished": "2015-01-12T07:14:28Z",
+  "dateModified": "2015-01-12T07:14:28Z",
+  
+  "author": {
+    "@type": "Person",
+    "name": "Chuande Liu"
+  },
+  
+  "publisher": {
+    "@type": "Organization",
+    "name": "Chuande Liu",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://chuande-liu.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_192x192_fill_lanczos_center_2.png"
+    }
+  },
+  "description": " To apply under-actuated technology to stabilize the oscillation of offshore wind turbine and slove control problems in oscillating screen machine"
+}
+</script>
+
+  
+
+  
+
+  
+
+  
+
+
+
+
+
+  <title>Under-actuated Machine Control | Chuande Liu</title>
+</head>
+
+
+<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" class="page-wrapper  ">
+
+  
+  
+  
+  
+  
+  
+  
+  
+  <script src="/js/wowchemy-init.min.d04a4dd9cd5314a106673db4cc9094ae.js"></script>
+
+  
+
+
+<aside class="search-modal" id="search">
+  <div class="container">
+    <section class="search-header">
+
+      <div class="row no-gutters justify-content-between mb-3">
+        <div class="col-6">
+          <h1>Search</h1>
+        </div>
+        <div class="col-6 col-search-close">
+          <a class="js-search" href="#" aria-label="Close"><i class="fas fa-times-circle text-muted" aria-hidden="true"></i></a>
+        </div>
+      </div>
+
+      <div id="search-box">
+        
+        <input name="q" id="search-query" placeholder="Search..." autocapitalize="off"
+        autocomplete="off" autocorrect="off" spellcheck="false" type="search" class="form-control"
+        aria-label="Search...">
+        
+      </div>
+
+      
+      
+
+      
+
+    </section>
+    <section class="section-search-results">
+
+      <div id="search-hits">
+        
+      </div>
+
+    </section>
+  </div>
+</aside>
+
+
+
+  <div class="page-header">
+    
+
+
+
+
+
+
+
+
+
+
+
+
+<nav class="navbar navbar-expand-lg navbar-light compensate-for-scrollbar" id="navbar-main">
+  <div class="container-xl">
+
+    
+    <div class="d-none d-lg-inline-flex">
+      <a class="navbar-brand" href="/">Chuande Liu</a>
+    </div>
+    
+
+    
+    <button type="button" class="navbar-toggler" data-toggle="collapse"
+            data-target="#navbar-content" aria-controls="navbar" aria-expanded="false" aria-label="Toggle navigation">
+    <span><i class="fas fa-bars"></i></span>
+    </button>
+    
+
+    
+    <div class="navbar-brand-mobile-wrapper d-inline-flex d-lg-none">
+      <a class="navbar-brand" href="/">Chuande Liu</a>
+    </div>
+    
+
+    
+    
+    <div class="navbar-collapse main-menu-item collapse justify-content-start" id="navbar-content">
+
+      
+      <ul class="navbar-nav d-md-inline-flex">
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+            
+            
+            
+              
+            
+            
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#about"><span>Home</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+            
+            
+            
+              
+            
+            
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#posts"><span>News</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+            
+            
+            
+              
+            
+            
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#projects"><span>Projects</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+            
+            
+            
+              
+            
+            
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#featured"><span>Publications</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+            
+            
+            
+              
+            
+            
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#services"><span>Services</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+            
+            
+            
+              
+            
+            
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#accomplishments"><span>Awards</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+            
+            
+            
+              
+            
+            
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#contact"><span>Contact</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/media/chuande_resume_EN.pdf"><span>CV</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/media/chuande_resume_CN.pdf"><span>中文简历</span></a>
+        </li>
+
+        
+        
+
+      
+
+        
+      </ul>
+    </div>
+
+    <ul class="nav-icons navbar-nav flex-row ml-auto d-flex pl-md-2">
+
+      
+      
+        
+      
+        
+      
+
+      
+      
+      <li class="nav-item">
+        <a class="nav-link js-search" href="#" aria-label="Search"><i class="fas fa-search" aria-hidden="true"></i></a>
+      </li>
+      
+
+      
+      
+      <li class="nav-item dropdown theme-dropdown">
+        <a href="#" class="nav-link" data-toggle="dropdown" aria-haspopup="true" aria-label="Display preferences">
+          <i class="fas fa-moon" aria-hidden="true"></i>
+        </a>
+        <div class="dropdown-menu">
+          <a href="#" class="dropdown-item js-set-theme-light">
+            <span>Light</span>
+          </a>
+          <a href="#" class="dropdown-item js-set-theme-dark">
+            <span>Dark</span>
+          </a>
+          <a href="#" class="dropdown-item js-set-theme-auto">
+            <span>Automatic</span>
+          </a>
+        </div>
+      </li>
+      
+
+      
+
+    </ul>
+
+  </div>
+</nav>
+
+
+  </div>
+
+  <div class="page-body">
+    <article class="article article-project">
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+<div class="article-container pt-3">
+  <h1>Under-actuated Machine Control</h1>
+
+  
+
+  
+
+
+<div class="article-metadata">
+
+  
+  
+
+  
+  <span class="article-date">
+    
+    
+      
+    
+    Jan 12, 2015
+  </span>
+  
+
+  
+
+  
+
+  
+  
+  
+  
+  
+  
+
+  
+  
+
+</div>
+
+  
+
+
+
+
+
+</div>
+
+
+<div class="article-header article-container featured-image-wrapper mt-4 mb-4" style="max-width: 584px; max-height: 916px;">
+  <div style="position: relative">
+    <img src="/project/tracking-control-for-under-actuated-robot-systems/featured.jpg" alt="" class="featured-image">
+    
+  </div>
+</div>
+
+
+
+  <div class="article-container">
+
+    <div class="article-style">
+      <p>Offshore floating wind turbine exhibits plastic vibration for power generation. 
+The similar vibration happens to the oscillating screen machine, commonly seen in the power plant&rsquo;s coal preparation process. 
+They are under-actuated phenomena. Analyzing the under-actuated mechanism, 
+we developed under-actuated TORA (translational oscillator with rotational actuator) system to stabilize the oscillation of offshore wind turbine and solve the oscillating screen machine’s flexible control problems.</p>
+<p><img src="tora-model-for-machine1.jpg" alt="">
+<strong>Figure 1.</strong> The under-actuated mechanism of offshore wind turbine and screen machine</p>
+<p><img src="tora-platform.jpg" alt="">
+<strong>Figure 2.</strong> Our self-developed platform of the under-actuated TORA system</p>
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+  
+
+
+
+
+
+  
+
+
+<video controls >
+  <source src="/media/Orbitally%20Stabilizing%20Control%20for%20TORA%20Design%20and%20Experimentation.mp4" type="video/mp4">
+</video>
+
+    </div>
+
+    
+
+
+
+
+
+
+<div class="article-tags">
+  
+  <a class="badge badge-light" href="/tag/under-actuated-robot/">Under-actuated Robot</a>
+  
+</div>
+
+
+
+<div class="share-box" aria-hidden="true">
+  <ul class="share">
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="mailto:?subject=Under-actuated%20Machine%20Control&amp;body=https://chuande-liu.github.io/project/tracking-control-for-under-actuated-robot-systems/" target="_blank" rel="noopener" class="share-btn-email">
+          <i class="fas fa-envelope"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://www.linkedin.com/shareArticle?url=https://chuande-liu.github.io/project/tracking-control-for-under-actuated-robot-systems/&amp;title=Under-actuated%20Machine%20Control" target="_blank" rel="noopener" class="share-btn-linkedin">
+          <i class="fab fa-linkedin-in"></i>
+        </a>
+      </li>
+    
+  </ul>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+  
+  
+  
+    
+  
+  
+  
+  <div class="media author-card content-widget-hr">
+    
+      
+      <a href="https://chuande-liu.github.io/"><img class="avatar mr-3 avatar-circle" src="/authors/admin/avatar_hu205c43aa2aa70cf37fc1d90ad08822f9_1861032_270x270_fill_q75_lanczos_center.jpg" alt="Chuande Liu"></a>
+    
+
+    <div class="media-body">
+      <h5 class="card-title"><a href="https://chuande-liu.github.io/">Chuande Liu</a></h5>
+      <h6 class="card-subtitle">Lecturer</h6>
+      <p class="card-text">My current research interests focus on sensory-based manipulation, robotic motion planning, AI-augmented visual servoing and under-actuated robot systems.</p>
+      <ul class="network-icon" aria-hidden="true">
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+    <li>
+      <a href="mailto:liuchuande@nuist.edu.cn" >
+        <i class="fas fa-envelope"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://www.researchgate.net/profile/Chuande-Liu" target="_blank" rel="noopener">
+        <i class="fab fa-researchgate"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://scholar.google.com/citations?user=QFPmtRwAAAAJ&amp;hl=zh-CN" target="_blank" rel="noopener">
+        <i class="ai ai-google-scholar"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://www.linkedin.com/in/%E4%BC%A0%E5%BE%B7-%E5%88%98-4ab7bb115" target="_blank" rel="noopener">
+        <i class="fab fa-linkedin"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://chuande-liu.github.io/media/chuande_resume_EN.pdf" target="_blank" rel="noopener">
+        <i class="ai ai-cv"></i>
+      </a>
+    </li>
+  
+</ul>
+
+    </div>
+  </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+    <div class="project-related-pages content-widget-hr">
+      
+      
+
+      
+      
+      
+
+      
+      
+      
+        <h2>Publications</h2>
+        
+          
+            
+
+
+
+
+
+
+
+  
+
+
+<div class="card-simple">
+
+  
+    
+
+
+<div class="article-metadata">
+
+  
+  
+  
+  
+  <div>
+    
+
+  <span >
+      Syed Awais Ali Shah</span>, <span >
+      Bingtuan Gao</span>, <span >
+      Nigar Ahmed</span>, <span >
+      Chuande Liu</span>
+  </div>
+  
+  
+
+  
+  <span class="article-date">
+    
+    
+      
+    
+    February 2021
+  </span>
+  
+
+  
+  <span class="middot-divider"></span>
+  <span class="pub-publication">
+    
+      Proceedings of the Institution of Mechanical Engineers, Part M: Journal of Engineering for the Maritime Environment
+    
+  </span>
+  
+
+  
+
+  
+  
+  
+  
+  
+  
+
+  
+  
+
+</div>
+
+  
+
+  
+  
+  
+
+  <div class="section-subheading article-title mb-1 mt-3">
+    <a href="/publication/advanced-robust-control-techniques-for-the-stabilization-of-tora-based-barge-type-ofwt/">Advanced robust control techniques for the stabilization of translational oscillator with rotational actuator based barge-type OFWT</a>
+  </div>
+
+  
+
+  
+  <div class="btn-links">
+    
+
+
+
+
+
+
+
+
+  
+
+
+
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="/publication/advanced-robust-control-techniques-for-the-stabilization-of-tora-based-barge-type-ofwt/advanced-robust-control-techniques-for-the-stabilization-of-tora-based-barge-type-ofwt.pdf" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+
+
+
+
+  
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="/project/tracking-control-for-under-actuated-robot-systems/">
+    Project
+  </a>
+  
+
+
+
+
+
+
+
+
+
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/10.1177%2F1475090221991431" target="_blank" rel="noopener">
+  DOI
+</a>
+
+
+
+  </div>
+  
+
+</div>
+
+          
+        
+          
+            
+
+
+
+
+
+
+
+  
+
+
+<div class="card-simple">
+
+  
+    
+
+
+<div class="article-metadata">
+
+  
+  
+  
+  
+  <div>
+    
+
+  <span >
+      Syed Awais Ali Shah</span>, <span >
+      Bingtuan Gao</span>, <span >
+      Nigar Ahmed</span>, <span >
+      Chuande Liu</span>, <span >
+      Arshad Rauf</span>
+  </div>
+  
+  
+
+  
+  <span class="article-date">
+    
+    
+      
+    
+    August 2019
+  </span>
+  
+
+  
+  <span class="middot-divider"></span>
+  <span class="pub-publication">
+    
+      9th Annual International Conference on CYBER Technology in Automation, Control, and Intelligent Systems (IEEE-CYBER 2019)
+    
+  </span>
+  
+
+  
+
+  
+  
+  
+  
+  
+  
+
+  
+  
+
+</div>
+
+  
+
+  
+  
+  
+
+  <div class="section-subheading article-title mb-1 mt-3">
+    <a href="/publication/disturbance-observer-based-sliding-mode-control-of-tora-system-for-floating-wind-turbines/">Disturbance Observer-Based Sliding Mode Control of TORA System for Floating Wind Turbines</a>
+  </div>
+
+  
+
+  
+  <div class="btn-links">
+    
+
+
+
+
+
+
+
+
+  
+
+
+
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="/publication/disturbance-observer-based-sliding-mode-control-of-tora-system-for-floating-wind-turbines/disturbance-observer-based-sliding-mode-control-of-tora-system-for-floating-wind-turbines.pdf" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+
+
+
+
+  
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="/project/tracking-control-for-under-actuated-robot-systems/">
+    Project
+  </a>
+  
+
+
+
+
+
+
+
+
+
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/10.1109/CYBER46603.2019.9066505" target="_blank" rel="noopener">
+  DOI
+</a>
+
+
+  
+  
+  
+    
+  
+  
+  
+  
+  
+    
+  
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://ieeexplore.ieee.org/document/9066505" target="_blank" rel="noopener">
+    
+    Oral Presentation
+  </a>
+
+
+  </div>
+  
+
+</div>
+
+          
+        
+          
+            
+
+
+
+
+
+
+
+  
+
+
+<div class="card-simple">
+
+  
+    
+
+
+<div class="article-metadata">
+
+  
+  
+  
+  
+  <div>
+    
+
+  <span >
+      郑功倍</span>, <span >
+      高丙团</span>, <span >
+      刘传德</span>, <span >
+      谢吉华</span>
+  </div>
+  
+  
+
+  
+  <span class="article-date">
+    
+    
+      
+    
+    February 2019
+  </span>
+  
+
+  
+  <span class="middot-divider"></span>
+  <span class="pub-publication">
+    
+      控制工程
+    
+  </span>
+  
+
+  
+
+  
+  
+  
+  
+  
+  
+
+  
+  
+
+</div>
+
+  
+
+  
+  
+  
+
+  <div class="section-subheading article-title mb-1 mt-3">
+    <a href="/publication/%E6%AC%A0%E9%A9%B1%E5%8A%A8tora%E7%B3%BB%E7%BB%9F%E5%91%A8%E6%9C%9F%E6%80%A7%E5%8A%A8%E6%80%81%E8%BD%A8%E8%BF%B9%E7%9A%84%E6%A8%A1%E7%B3%8A%E6%8E%A7%E5%88%B6%E8%AE%BE%E8%AE%A1/">欠驱动TORA系统周期性动态轨迹的模糊控制设计</a>
+  </div>
+
+  
+
+  
+  <div class="btn-links">
+    
+
+
+
+
+
+
+
+
+  
+
+
+
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="/publication/%E6%AC%A0%E9%A9%B1%E5%8A%A8tora%E7%B3%BB%E7%BB%9F%E5%91%A8%E6%9C%9F%E6%80%A7%E5%8A%A8%E6%80%81%E8%BD%A8%E8%BF%B9%E7%9A%84%E6%A8%A1%E7%B3%8A%E6%8E%A7%E5%88%B6%E8%AE%BE%E8%AE%A1/%E6%AC%A0%E9%A9%B1%E5%8A%A8tora%E7%B3%BB%E7%BB%9F%E5%91%A8%E6%9C%9F%E6%80%A7%E5%8A%A8%E6%80%81%E8%BD%A8%E8%BF%B9%E7%9A%84%E6%A8%A1%E7%B3%8A%E6%8E%A7%E5%88%B6%E8%AE%BE%E8%AE%A1.pdf" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+
+
+
+
+  
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="/project/tracking-control-for-under-actuated-robot-systems/">
+    Project
+  </a>
+  
+
+
+
+
+
+
+
+
+
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/10.14107/j.cnki.kzgc.170115" target="_blank" rel="noopener">
+  DOI
+</a>
+
+
+
+  </div>
+  
+
+</div>
+
+          
+        
+          
+            
+
+
+
+
+
+
+
+  
+
+
+<div class="card-simple">
+
+  
+    
+
+
+<div class="article-metadata">
+
+  
+  
+  
+  
+  <div>
+    
+
+  <span >
+      姜雷杰</span>, <span >
+      高丙团</span>, <span >
+      刘传德</span>, <span >
+      朱振宇</span>
+  </div>
+  
+  
+
+  
+  <span class="article-date">
+    
+    
+      
+    
+    February 2019
+  </span>
+  
+
+  
+  <span class="middot-divider"></span>
+  <span class="pub-publication">
+    
+      控制与决策
+    
+  </span>
+  
+
+  
+
+  
+  
+  
+  
+  
+  
+
+  
+  
+
+</div>
+
+  
+
+  
+  
+  
+
+  <div class="section-subheading article-title mb-1 mt-3">
+    <a href="/publication/2-dof%E7%BB%B3%E7%B4%A2%E9%A9%B1%E5%8A%A8%E5%B9%B6%E8%81%94%E6%9C%BA%E6%9E%84%E8%BD%A8%E8%BF%B9%E8%B7%9F%E8%B8%AA%E6%8E%A7%E5%88%B6/">2-DOF绳索驱动并联机构轨迹跟踪控制</a>
+  </div>
+
+  
+
+  
+  <div class="btn-links">
+    
+
+
+
+
+
+
+
+
+  
+
+
+
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="/publication/2-dof%E7%BB%B3%E7%B4%A2%E9%A9%B1%E5%8A%A8%E5%B9%B6%E8%81%94%E6%9C%BA%E6%9E%84%E8%BD%A8%E8%BF%B9%E8%B7%9F%E8%B8%AA%E6%8E%A7%E5%88%B6/2-dof%E7%BB%B3%E7%B4%A2%E9%A9%B1%E5%8A%A8%E5%B9%B6%E8%81%94%E6%9C%BA%E6%9E%84%E8%BD%A8%E8%BF%B9%E8%B7%9F%E8%B8%AA%E6%8E%A7%E5%88%B6.pdf" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+
+
+
+
+  
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="/project/tracking-control-for-under-actuated-robot-systems/">
+    Project
+  </a>
+  
+
+
+
+
+
+
+
+
+
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/10.13195/j.kzyjc.2017.1460" target="_blank" rel="noopener">
+  DOI
+</a>
+
+
+
+  </div>
+  
+
+</div>
+
+          
+        
+          
+            
+
+
+
+
+
+
+
+  
+
+
+<div class="card-simple">
+
+  
+    
+
+
+<div class="article-metadata">
+
+  
+  
+  
+  
+  <div>
+    
+
+  <span >
+      Chuande Liu</span>, <span >
+      Bingtuan Gao</span>, <span >
+      Jianguo Zhao</span>, <span >
+      Syed Awais Ali Shah</span>
+  </div>
+  
+  
+
+  
+  <span class="article-date">
+    
+    
+      
+    
+    April 2018
+  </span>
+  
+
+  
+  <span class="middot-divider"></span>
+  <span class="pub-publication">
+    
+      Proceedings of the Institution of Mechanical Engineers, Part I: Journal of Systems and Control Engineering
+    
+  </span>
+  
+
+  
+
+  
+  
+  
+  
+  
+  
+
+  
+  
+
+</div>
+
+  
+
+  
+  
+  
+
+  <div class="section-subheading article-title mb-1 mt-3">
+    <a href="/publication/orbitally-stabilizing-control-for-tora-design-and-experimentation/">Orbitally stabilizing control for the underactuated translational oscillator with rotational actuator system: Design and experimentation</a>
+  </div>
+
+  
+  <a href="/publication/orbitally-stabilizing-control-for-tora-design-and-experimentation/" class="summary-link">
+    <div class="article-style">
+      <p>This paper describes an orbitally stabilizing control strategy to steer oscillating movements of a translational oscillator with rotational actuator system.</p>
+    </div>
+  </a>
+  
+
+  
+  <div class="btn-links">
+    
+
+
+
+
+
+
+
+
+  
+
+
+
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="/publication/orbitally-stabilizing-control-for-tora-design-and-experimentation/orbitally-stabilizing-control-for-tora-design-and-experimentation.pdf" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+
+
+
+
+  
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="/project/tracking-control-for-under-actuated-robot-systems/">
+    Project
+  </a>
+  
+
+
+
+
+
+
+
+
+
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/10.1177/0959651818802088" target="_blank" rel="noopener">
+  DOI
+</a>
+
+
+
+  </div>
+  
+
+</div>
+
+          
+        
+          
+            
+
+
+
+
+
+
+
+  
+
+
+<div class="card-simple">
+
+  
+    
+
+
+<div class="article-metadata">
+
+  
+  
+  
+  
+  <div>
+    
+
+  <span >
+      刘传德</span>, <span >
+      高丙团</span>, <span >
+      郑功倍</span>, <span >
+      孙国兵</span>
+  </div>
+  
+  
+
+  
+  <span class="article-date">
+    
+    
+      
+    
+    February 2018
+  </span>
+  
+
+  
+  <span class="middot-divider"></span>
+  <span class="pub-publication">
+    
+      电机与控制学报
+    
+  </span>
+  
+
+  
+
+  
+  
+  
+  
+  
+  
+
+  
+  
+
+</div>
+
+  
+
+  
+  
+  
+
+  <div class="section-subheading article-title mb-1 mt-3">
+    <a href="/publication/%E6%AC%A0%E9%A9%B1%E5%8A%A8tora-%E6%8C%AF%E8%8D%A1%E8%BD%A8%E8%BF%B9%E8%B7%9F%E8%B8%AA%E7%9A%84%E6%A8%A1%E7%B3%8A%E6%8E%A7%E5%88%B6%E8%AE%BE%E8%AE%A1/">欠驱动TORA 振荡轨迹跟踪的模糊控制设计</a>
+  </div>
+
+  
+  <a href="/publication/%E6%AC%A0%E9%A9%B1%E5%8A%A8tora-%E6%8C%AF%E8%8D%A1%E8%BD%A8%E8%BF%B9%E8%B7%9F%E8%B8%AA%E7%9A%84%E6%A8%A1%E7%B3%8A%E6%8E%A7%E5%88%B6%E8%AE%BE%E8%AE%A1/" class="summary-link">
+    <div class="article-style">
+      <p>本文针对欠驱动TORA机电系统的周期性振荡问题，设计一种平移小车周期运动和旋转小球保持定值的动态轨迹，并研究实用的轨迹跟踪模糊控制方案。</p>
+    </div>
+  </a>
+  
+
+  
+  <div class="btn-links">
+    
+
+
+
+
+
+
+
+
+  
+
+
+
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="/publication/%E6%AC%A0%E9%A9%B1%E5%8A%A8tora-%E6%8C%AF%E8%8D%A1%E8%BD%A8%E8%BF%B9%E8%B7%9F%E8%B8%AA%E7%9A%84%E6%A8%A1%E7%B3%8A%E6%8E%A7%E5%88%B6%E8%AE%BE%E8%AE%A1/%E6%AC%A0%E9%A9%B1%E5%8A%A8tora-%E6%8C%AF%E8%8D%A1%E8%BD%A8%E8%BF%B9%E8%B7%9F%E8%B8%AA%E7%9A%84%E6%A8%A1%E7%B3%8A%E6%8E%A7%E5%88%B6%E8%AE%BE%E8%AE%A1.pdf" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+
+
+
+
+  
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="/project/tracking-control-for-under-actuated-robot-systems/">
+    Project
+  </a>
+  
+
+
+
+
+
+
+
+
+
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/10.15938/j.emc.2018.05.015" target="_blank" rel="noopener">
+  DOI
+</a>
+
+
+
+  </div>
+  
+
+</div>
+
+          
+        
+          
+            
+
+
+
+
+
+
+
+  
+
+
+<div class="card-simple">
+
+  
+    
+
+
+<div class="article-metadata">
+
+  
+  
+  
+  
+  <div>
+    
+
+  <span >
+      高丙团</span>, <span >
+      刘传德</span>, <span >
+      谢吉华</span>
+  </div>
+  
+  
+
+  
+  <span class="article-date">
+    
+    
+      
+    
+    January 2018
+  </span>
+  
+
+  
+  <span class="middot-divider"></span>
+  <span class="pub-publication">
+    
+      中国专利
+    
+  </span>
+  
+
+  
+
+  
+  
+  
+  
+  
+  
+
+  
+  
+
+</div>
+
+  
+
+  
+  
+  
+
+  <div class="section-subheading article-title mb-1 mt-3">
+    <a href="/publication/%E4%B8%80%E7%A7%8D%E5%85%B7%E6%9C%89%E6%97%8B%E8%BD%AC%E6%BF%80%E5%8A%B1%E7%9A%84%E5%B9%B3%E7%A7%BB%E6%8C%AF%E8%8D%A1%E8%A3%85%E7%BD%AE%E7%9A%84%E5%91%A8%E6%9C%9F%E6%80%A7%E8%BD%A8%E8%BF%B9%E6%8E%A7%E5%88%B6%E6%96%B9%E6%B3%95/">一种具有旋转激励的平移振荡装置的周期性轨迹控制方法</a>
+  </div>
+
+  
+  <a href="/publication/%E4%B8%80%E7%A7%8D%E5%85%B7%E6%9C%89%E6%97%8B%E8%BD%AC%E6%BF%80%E5%8A%B1%E7%9A%84%E5%B9%B3%E7%A7%BB%E6%8C%AF%E8%8D%A1%E8%A3%85%E7%BD%AE%E7%9A%84%E5%91%A8%E6%9C%9F%E6%80%A7%E8%BD%A8%E8%BF%B9%E6%8E%A7%E5%88%B6%E6%96%B9%E6%B3%95/" class="summary-link">
+    <div class="article-style">
+      <p>本发明的目的是为解决现有的旋转激励的平移振荡装置不能实现动态周期性轨迹运动控制的问题，提供该装置的动态周期性轨迹控制方法。</p>
+    </div>
+  </a>
+  
+
+  
+  <div class="btn-links">
+    
+
+
+
+
+
+
+
+
+  
+
+
+
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="/publication/%E4%B8%80%E7%A7%8D%E5%85%B7%E6%9C%89%E6%97%8B%E8%BD%AC%E6%BF%80%E5%8A%B1%E7%9A%84%E5%B9%B3%E7%A7%BB%E6%8C%AF%E8%8D%A1%E8%A3%85%E7%BD%AE%E7%9A%84%E5%91%A8%E6%9C%9F%E6%80%A7%E8%BD%A8%E8%BF%B9%E6%8E%A7%E5%88%B6%E6%96%B9%E6%B3%95/%E4%B8%80%E7%A7%8D%E5%85%B7%E6%9C%89%E6%97%8B%E8%BD%AC%E6%BF%80%E5%8A%B1%E7%9A%84%E5%B9%B3%E7%A7%BB%E6%8C%AF%E8%8D%A1%E8%A3%85%E7%BD%AE%E7%9A%84%E5%91%A8%E6%9C%9F%E6%80%A7%E8%BD%A8%E8%BF%B9%E6%8E%A7%E5%88%B6%E6%96%B9%E6%B3%95.pdf" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+
+
+
+
+  
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="/project/tracking-control-for-under-actuated-robot-systems/">
+    Project
+  </a>
+  
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+    
+  
+  
+  
+  
+  
+    
+  
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://www.baiten.cn/patent/detail/51fc8adf00115b04fbe8b328ce645071f8cf55db90761c7c?sc=&amp;fq=&amp;type=&amp;sort=&amp;sortField=&amp;q=%E4%B8%9C%E5%8D%97%E5%A4%A7%E5%AD%A6%2B%E5%88%98%E4%BC%A0%E5%BE%B7&amp;rows=10#1/CN201610004396.6/sqdetail/abst" target="_blank" rel="noopener">
+    
+    授权发明专利
+  </a>
+
+
+  </div>
+  
+
+</div>
+
+          
+        
+          
+            
+
+
+
+
+
+
+
+  
+
+
+<div class="card-simple">
+
+  
+    
+
+
+<div class="article-metadata">
+
+  
+  
+  
+  
+  <div>
+    
+
+  <span >
+      刘传德</span>
+  </div>
+  
+  
+
+  
+  <span class="article-date">
+    
+    
+      
+    
+    December 2016
+  </span>
+  
+
+  
+  <span class="middot-divider"></span>
+  <span class="pub-publication">
+    
+      东南大学
+    
+  </span>
+  
+
+  
+
+  
+  
+  
+  
+  
+  
+
+  
+  
+
+</div>
+
+  
+
+  
+  
+  
+
+  <div class="section-subheading article-title mb-1 mt-3">
+    <a href="/publication/tora%E7%B3%BB%E7%BB%9F%E5%91%A8%E6%9C%9F%E6%80%A7%E8%BD%A8%E8%BF%B9%E7%A8%B3%E5%AE%9A%E6%8E%A7%E5%88%B6%E7%AD%96%E7%95%A5%E7%A0%94%E7%A9%B6/">TORA系统周期性轨迹稳定控制策略研究</a>
+  </div>
+
+  
+  <a href="/publication/tora%E7%B3%BB%E7%BB%9F%E5%91%A8%E6%9C%9F%E6%80%A7%E8%BD%A8%E8%BF%B9%E7%A8%B3%E5%AE%9A%E6%8E%A7%E5%88%B6%E7%AD%96%E7%95%A5%E7%A0%94%E7%A9%B6/" class="summary-link">
+    <div class="article-style">
+      <p>本文针对一类具有欠驱动性质的非线性机电系统控制问题展开研究，解决现有的旋转激励的平移振荡装置不能实现动态周期性轨迹运动控制问题。本文是作者在读研究生期间关于欠驱动机器人课题所发表相关文章与专利的总结，被选评为“江苏省优秀硕士论文”。</p>
+    </div>
+  </a>
+  
+
+  
+  <div class="btn-links">
+    
+
+
+
+
+
+
+
+
+  
+
+
+
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="/publication/tora%E7%B3%BB%E7%BB%9F%E5%91%A8%E6%9C%9F%E6%80%A7%E8%BD%A8%E8%BF%B9%E7%A8%B3%E5%AE%9A%E6%8E%A7%E5%88%B6%E7%AD%96%E7%95%A5%E7%A0%94%E7%A9%B6/tora%E7%B3%BB%E7%BB%9F%E5%91%A8%E6%9C%9F%E6%80%A7%E8%BD%A8%E8%BF%B9%E7%A8%B3%E5%AE%9A%E6%8E%A7%E5%88%B6%E7%AD%96%E7%95%A5%E7%A0%94%E7%A9%B6.pdf" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+
+
+
+
+  
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="/project/tracking-control-for-under-actuated-robot-systems/">
+    Project
+  </a>
+  
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+    
+  
+  
+  
+  
+  
+    
+  
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="http://d.wanfangdata.com.cn/thesis/ChJUaGVzaXNOZXdTMjAyMTAyMDESCFkzMTg2MTIwGghtd25ud2JhMg%3D%3D" target="_blank" rel="noopener">
+    
+    DOI
+  </a>
+
+  
+  
+  
+    
+  
+  
+  
+  
+  
+    
+  
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="http://d.wanfangdata.com.cn/thesis/ChJUaGVzaXNOZXdTMjAyMTAyMDESCFkzMTg2MTIwGghtd25ud2JhMg%3D%3D" target="_blank" rel="noopener">
+    
+    江苏省优秀硕士论文
+  </a>
+
+
+  </div>
+  
+
+</div>
+
+          
+        
+          
+            
+
+
+
+
+
+
+
+  
+
+
+<div class="card-simple">
+
+  
+    
+
+
+<div class="article-metadata">
+
+  
+  
+  
+  
+  <div>
+    
+
+  <span >
+      Bingtuan Gao</span>, <span >
+      Chuande Liu</span>, <span >
+      Hongtai Cheng</span>
+  </div>
+  
+  
+
+  
+  <span class="article-date">
+    
+    
+      
+    
+    May 2015
+  </span>
+  
+
+  
+  <span class="middot-divider"></span>
+  <span class="pub-publication">
+    
+      Shock and Vibration
+    
+  </span>
+  
+
+  
+
+  
+  
+  
+  
+  
+  
+
+  
+  
+
+</div>
+
+  
+
+  
+  
+  
+
+  <div class="section-subheading article-title mb-1 mt-3">
+    <a href="/publication/virtual-constraints-based-control-design-of-an-inclined-tora/">Virtual constraints based control design of an inclined Translational Oscillator with Rotational Actuator System</a>
+  </div>
+
+  
+  <a href="/publication/virtual-constraints-based-control-design-of-an-inclined-tora/" class="summary-link">
+    <div class="article-style">
+      <p>This paper describes a novel virtual constraints-based method to control the TORA system&rsquo;s movements, which are extended to inclined planes.</p>
+    </div>
+  </a>
+  
+
+  
+  <div class="btn-links">
+    
+
+
+
+
+
+
+
+
+  
+
+
+
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="/publication/virtual-constraints-based-control-design-of-an-inclined-tora/virtual-constraints-based-control-design-of-an-inclined-tora.pdf" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+
+
+
+
+  
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="/project/tracking-control-for-under-actuated-robot-systems/">
+    Project
+  </a>
+  
+
+
+
+
+
+
+
+
+
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/10.1155/2015/769151" target="_blank" rel="noopener">
+  DOI
+</a>
+
+
+
+  </div>
+  
+
+</div>
+
+          
+        
+      
+
+      
+      
+      
+    </div>
+  </div>
+</article>
+  </div>
+
+  <div class="page-footer">
+    
+    
+    <div class="container">
+      <footer class="site-footer">
+  
+
+  <p class="powered-by">
+    
+  </p>
+
+  
+  
+
+
+
+
+
+
+  <p class="powered-by">
+    
+    
+    
+    Published with
+    <a href="https://wowchemy.com/?utm_campaign=poweredby" target="_blank" rel="noopener">Wowchemy</a>  —
+    the free, <a href="https://github.com/wowchemy/wowchemy-hugo-modules" target="_blank" rel="noopener">
+    open source</a> website builder that empowers creators.
+    
+  </p>
+</footer>
+
+    </div>
+    
+  </div>
+
+  
+<div id="modal" class="modal fade" role="dialog">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title">Cite</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        <pre><code class="tex hljs"></code></pre>
+      </div>
+      <div class="modal-footer">
+        <a class="btn btn-outline-primary my-1 js-copy-cite" href="#" target="_blank">
+          <i class="fas fa-copy"></i> Copy
+        </a>
+        <a class="btn btn-outline-primary my-1 js-download-cite" href="#" target="_blank">
+          <i class="fas fa-download"></i> Download
+        </a>
+        <div id="modal-error"></div>
+      </div>
+    </div>
+  </div>
+</div>
+
+      
+
+    
+    
+    
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js" integrity="sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0=" crossorigin="anonymous"></script>
+
+      
+      
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.imagesloaded/4.1.4/imagesloaded.pkgd.min.js" integrity="sha256-lqvxZrPLtfffUl2G/e7szqSvPBILGbwmsGE1MKlOi0Q=" crossorigin="anonymous"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.isotope/3.0.6/isotope.pkgd.min.js" integrity="sha256-CBrpuqrMhXwcLLUd5tvQ4euBHCdh7wGlDfNz8vbu/iI=" crossorigin="anonymous"></script>
+      
+
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.js" integrity="sha256-yt2kYMy0w8AbtF89WXb2P1rfjcP/HTHLT7097U8Y5b8=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/instant.page/5.1.0/instantpage.min.js" integrity="sha512-1+qUtKoh9XZW7j+6LhRMAyOrgSQKenQ4mluTR+cvxXjP1Z54RxZuzstR/H9kgPXQsVB8IW7DMDFUJpzLjvhGSQ==" crossorigin="anonymous"></script>
+
+      
+
+      
+        
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.2.0/highlight.min.js" integrity="sha512-TDKKr+IvoqZnPzc3l35hdjpHD0m+b2EC2SrLEgKDRWpxf2rFCxemkgvJ5kfU48ip+Y+m2XVKyOCD85ybtlZDmw==" crossorigin="anonymous"></script>
+        
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.2.0/languages/r.min.js"></script>
+        
+      
+
+    
+
+    
+    
+    
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.7.1/leaflet.min.js" integrity="sha512-SeiQaaDh73yrb56sTW/RgVdi/mMqNeM2oBwubFHagc5BkixSpP1fvqF47mKzPGWYSSy4RwbBunrJBQ4Co8fRWA==" crossorigin="anonymous"></script>
+    
+
+    
+    
+
+    
+    
+    
+      
+      <script id="search-hit-fuse-template" type="text/x-template">
+        <div class="search-hit" id="summary-{{key}}">
+          <div class="search-hit-content">
+            <div class="search-hit-name">
+              <a href="{{relpermalink}}">{{title}}</a>
+              <div class="article-metadata search-hit-type">{{type}}</div>
+              <p class="search-hit-description">{{snippet}}</p>
+            </div>
+          </div>
+        </div>
+      </script>
+      
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/fuse.js/3.2.1/fuse.min.js" integrity="sha256-VzgmKYmhsGNNN4Ph1kMW+BjoYJM2jV5i4IlFoeZA9XI=" crossorigin="anonymous"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/mark.js/8.11.1/jquery.mark.min.js" integrity="sha256-4HLtjeVgH0eIB3aZ9mLYF6E8oU5chNdjU6p6rrXpl9U=" crossorigin="anonymous"></script>
+      
+    
+
+    
+    
+
+    <script src="/js/_vendor/bootstrap.bundle.min.29d2abb07db775505d3a2efc824e7b29.js"></script>
+
+    
+    
+      
+      
+      
+      
+      
+      
+      
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+      
+      
+    
+    
+    <script src="/en/js/wowchemy.min.221c5d00dd689bf2ed291c2d36b1d5fe.js"></script>
+
+    
+
+
+
+
+
+
+</body>
+</html>
