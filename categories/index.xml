@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories | Chuande Liu</title>
+    <link>https://chuande-liu.github.io/categories/</link>
+      <atom:link href="https://chuande-liu.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <description>Categories</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 30 Jul 2019 07:05:10 +0000</lastBuildDate>
+    <image>
+      <url>https://chuande-liu.github.io/media/avatar.jpg</url>
+      <title>Categories</title>
+      <link>https://chuande-liu.github.io/categories/</link>
+    </image>
+    
+  </channel>
+</rss>
