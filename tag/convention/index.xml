@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Convention | Chuande Liu</title>
+    <link>https://chuande-liu.github.io/tag/convention/</link>
+      <atom:link href="https://chuande-liu.github.io/tag/convention/index.xml" rel="self" type="application/rss+xml" />
+    <description>Convention</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 25 Aug 2017 07:05:10 +0000</lastBuildDate>
+    <image>
+      <url>https://chuande-liu.github.io/media/avatar.jpg</url>
+      <title>Convention</title>
+      <link>https://chuande-liu.github.io/tag/convention/</link>
+    </image>
+    
+    <item>
+      <title>World Robot Conference 2017, Beijing, China</title>
+      <link>https://chuande-liu.github.io/post/world-robot-conference-2017/</link>
+      <pubDate>Fri, 25 Aug 2017 07:05:10 +0000</pubDate>
+      <guid>https://chuande-liu.github.io/post/world-robot-conference-2017/</guid>
+      <description>&lt;p&gt;I participated in the (&lt;a href=&#34;http://www.worldrobotconference.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;World Robot Conference 2017&lt;/a&gt;) with Prof. Bingtuan Gao. Great conference WCR 2017!&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

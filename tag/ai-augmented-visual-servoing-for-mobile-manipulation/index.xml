@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>AI-augmented Visual Servoing for Mobile Manipulation | Chuande Liu</title>
+    <link>https://chuande-liu.github.io/tag/ai-augmented-visual-servoing-for-mobile-manipulation/</link>
+      <atom:link href="https://chuande-liu.github.io/tag/ai-augmented-visual-servoing-for-mobile-manipulation/index.xml" rel="self" type="application/rss+xml" />
+    <description>AI-augmented Visual Servoing for Mobile Manipulation</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 23 Nov 2020 10:30:00 +0000</lastBuildDate>
+    <image>
+      <url>https://chuande-liu.github.io/media/avatar.jpg</url>
+      <title>AI-augmented Visual Servoing for Mobile Manipulation</title>
+      <link>https://chuande-liu.github.io/tag/ai-augmented-visual-servoing-for-mobile-manipulation/</link>
+    </image>
+    
+    <item>
+      <title>A Self-Constructed CNN Classifier for Keyhole Detection and Location</title>
+      <link>https://chuande-liu.github.io/publication/self-constructed-cnn-classifier-for-keyhole-detection-and-location/</link>
+      <pubDate>Mon, 23 Nov 2020 10:30:00 +0000</pubDate>
+      <guid>https://chuande-liu.github.io/publication/self-constructed-cnn-classifier-for-keyhole-detection-and-location/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Power Cabinet Door-opening State Recognition Technology Based on Edge Feature Extraction of Monocular Vision</title>
+      <link>https://chuande-liu.github.io/publication/power-cabinet-dooropening-state-recognition/</link>
+      <pubDate>Sun, 04 Aug 2019 10:50:00 +0000</pubDate>
+      <guid>https://chuande-liu.github.io/publication/power-cabinet-dooropening-state-recognition/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An omnidirectional 3D sensor with line laser scanning</title>
+      <link>https://chuande-liu.github.io/publication/an-omnidirectional-3d-sensor-with-line-laser-scanning/</link>
+      <pubDate>Mon, 11 Apr 2016 10:30:00 +0000</pubDate>
+      <guid>https://chuande-liu.github.io/publication/an-omnidirectional-3d-sensor-with-line-laser-scanning/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

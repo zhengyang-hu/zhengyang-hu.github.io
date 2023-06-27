@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Academic | Chuande Liu</title>
+    <link>https://chuande-liu.github.io/tag/academic/</link>
+      <atom:link href="https://chuande-liu.github.io/tag/academic/index.xml" rel="self" type="application/rss+xml" />
+    <description>Academic</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 30 Jul 2019 07:05:10 +0000</lastBuildDate>
+    <image>
+      <url>https://chuande-liu.github.io/media/avatar.jpg</url>
+      <title>Academic</title>
+      <link>https://chuande-liu.github.io/tag/academic/</link>
+    </image>
+    
+    <item>
+      <title>IEEE-CYBER 2019, Suzhou, China</title>
+      <link>https://chuande-liu.github.io/post/ieee-cyber-2019-suzhou/</link>
+      <pubDate>Tue, 30 Jul 2019 07:05:10 +0000</pubDate>
+      <guid>https://chuande-liu.github.io/post/ieee-cyber-2019-suzhou/</guid>
+      <description>&lt;p&gt;I presented an oral at the 9th IEEE International Conference on CYBER Technology in Automation, Control, and Intelligent Systems (&lt;a href=&#34;https://www.ieee-cyber.org/2019/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;IEEE-CYBER
+2019&lt;/a&gt;) and got the finalist of best student paper reward. Great conference!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>World Robot Conference 2017, Beijing, China</title>
+      <link>https://chuande-liu.github.io/post/world-robot-conference-2017/</link>
+      <pubDate>Fri, 25 Aug 2017 07:05:10 +0000</pubDate>
+      <guid>https://chuande-liu.github.io/post/world-robot-conference-2017/</guid>
+      <description>&lt;p&gt;I participated in the (&lt;a href=&#34;http://www.worldrobotconference.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;World Robot Conference 2017&lt;/a&gt;) with Prof. Bingtuan Gao. Great conference WCR 2017!&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
